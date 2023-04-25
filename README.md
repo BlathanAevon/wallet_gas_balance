@@ -1,4 +1,4 @@
-Usage#
+#Usage
 
 `1.` clone repository via `git clone https://github.com/BlathanAevon/wallet_gas_balance.git`
 
