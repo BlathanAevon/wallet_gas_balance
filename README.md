@@ -4,7 +4,9 @@
 
 `2.` open file in editor and edit ```main.py``` file
 
-`3.` change ```WALLET``` line to your wallet adress
+`3.` Install requirements with ```pip install -r requirements.txt```
+
+`4.` change ```WALLET``` line to your wallet adress
 
 
 run script with `python main.py` command
